@@ -1,5 +1,5 @@
 import requests
-from toolz import partial
+from toolz import partial, reduce
 
 
 API_KEY = "ce6f3e5df2f5cfa7df1f7c5564758fe4"
@@ -24,4 +24,7 @@ def get_city_weather(city):
     return make_request(url)
 
 
-print(get_city_details("gaza"))
+get_cities_weather = lambda lst: [get_city_weather(target["city"]) for target in lst]
+get_cities_details = lambda lst: [get_city_details(target["city"])[0] for target in lst]
+
+

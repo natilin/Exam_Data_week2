@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="init the project and creat thr models">
-      <change afterPath="$PROJECT_DIR$/api/weather_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/json_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/citys_service.py" afterDir="false" />
+    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="finish the weather_api.py">
+      <change afterPath="$PROJECT_DIR$/assets/targets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/files_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/mission_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/weather_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/weather_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/json_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/json_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/citys_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/citys_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "natilin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/natilin/Exam_Data_week2",
+    "accountId": "735260d5-1250-4a38-adee-67f4a4eed90f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -36,12 +53,48 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.mission_service.executor": "Run",
     "Python.weather_api.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Owner/PycharmProjects/pythonProject/main.py"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\PycharmProjects\Exam_week2\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exam_week2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,11 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726126315793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish the weather_api.py">
+      <option name="closed" value="true" />
+      <created>1726131018551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726131018551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init the project and creat thr models" />
-    <option name="LAST_COMMIT_MESSAGE" value="init the project and creat thr models" />
+    <MESSAGE value="finish the weather_api.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the weather_api.py" />
   </component>
 </project>
