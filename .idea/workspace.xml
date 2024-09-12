@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="finish the weather_api.py">
-      <change afterPath="$PROJECT_DIR$/assets/targets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mission.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/files_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/mission_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/weather_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/weather_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/json_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/json_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/citys_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/citys_service.py" afterDir="false" />
-    </list>
+    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="update the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,12 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726131018551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update the project">
+      <option name="closed" value="true" />
+      <created>1726155669967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726155669967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init the project and creat thr models" />
     <MESSAGE value="finish the weather_api.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish the weather_api.py" />
+    <MESSAGE value="update the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the project" />
   </component>
 </project>
