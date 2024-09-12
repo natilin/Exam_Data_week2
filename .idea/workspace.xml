@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Exam_week2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/aircrafts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pilots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/aircraft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/__init__.py" afterDir="false" />
+    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="init the project and creat thr models">
+      <change afterPath="$PROJECT_DIR$/api/weather_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/json_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/citys_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.weather_api.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Owner/PycharmProjects/pythonProject/main.py"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -67,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726125207944</updated>
     </task>
+    <task id="LOCAL-00001" summary="init the project and creat thr models">
+      <option name="closed" value="true" />
+      <created>1726126315793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726126315793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init the project and creat thr models" />
+    <option name="LAST_COMMIT_MESSAGE" value="init the project and creat thr models" />
   </component>
 </project>
