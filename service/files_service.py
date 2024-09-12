@@ -1,9 +1,9 @@
 import os
-
 from api.weather_api import get_cities_details, get_cities_weather, get_city_details
 from repository.json_repository import read_json, create_json_file
 
 TARGETS = read_json("assets/targets.json")
+
 
 def create_files_if_not_exist():
     if not os.path.isfile("assets/all_cities_details.json"):
