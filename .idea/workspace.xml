@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="add mission service">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/calculate_priority.py" afterDir="false" />
+    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="delete unnecessary lines">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/aircraft.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/aircraft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/json_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/json_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/files_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/files_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/mission_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/mission_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726233707552</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete unnecessary lines">
+      <option name="closed" value="true" />
+      <created>1726233817946</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726233817946</updated>
+    </task>
+    <task id="LOCAL-00008" summary="delete unnecessary lines">
+      <option name="closed" value="true" />
+      <created>1726234013408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726234013408</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +234,7 @@
     <MESSAGE value="update the project" />
     <MESSAGE value="fix the empty linea" />
     <MESSAGE value="add mission service" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mission service" />
+    <MESSAGE value="delete unnecessary lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unnecessary lines" />
   </component>
 </project>
