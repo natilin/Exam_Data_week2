@@ -5,7 +5,7 @@ from repository.json_repository import (read_json, convert_from_json_to_pilot,
 
 PILOTS_FILE_PATH = "/assets/all_cities_details.json"
 AIRCRAFT_FILE_PATH = "./assets/pilots.json"
-print(read_json(PILOTS_FILE_PATH))
+
 
 pilots = pipe(
     PILOTS_FILE_PATH,
