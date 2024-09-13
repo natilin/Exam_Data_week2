@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="fix the empty linea">
+    <list default="true" id="772bcc3c-b96b-4e5d-85ea-c4d6ca51136d" name="Changes" comment="add mission service">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/service/calculate_priority.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -196,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726178091321</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add mission service">
+      <option name="closed" value="true" />
+      <created>1726233707552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726233707552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +224,7 @@
     <MESSAGE value="finish the weather_api.py" />
     <MESSAGE value="update the project" />
     <MESSAGE value="fix the empty linea" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix the empty linea" />
+    <MESSAGE value="add mission service" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mission service" />
   </component>
 </project>
